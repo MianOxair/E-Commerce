@@ -8,6 +8,10 @@
   border-radius: 0px;
 }
 
+.MuiAppBar-colorPrimary {
+  color: #fff;
+  background-color: #2a2a3e !important;
+}
 /* cart badge */
 
 .cart-badge,
